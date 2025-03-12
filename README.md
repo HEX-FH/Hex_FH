@@ -6,5 +6,4 @@ I’m currently learning python, rust and J/S, im hoping to learn haskell and c 
 
 if youre trying to ask me about something im most likely to respond to you thru 
 discord ( hex_from_heck )
-or my email
-Drex5004@gmail.com
+or my bluesky 
