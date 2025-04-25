@@ -6,4 +6,4 @@ I’m currently learning python, rust and J/S, im hoping to learn haskell and c 
 
 if youre trying to ask me about something im most likely to respond to you thru 
 discord ( hex_from_heck )
-or my bluesky 
+or my bluesky ( https://bsky.app/profile/heck-s.bsky.social )
